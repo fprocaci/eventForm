@@ -39,8 +39,8 @@ Página → [Link](https://event-form-fps.vercel.app/)
 
 E-mail → fprocaci@gmail.com
 
-GitHub → [Link](https://github.com/fprocaci) 
+GitHub → [Link](https://github.com/fprocaci)
 
-LinkedIn → [Link](https://www.linkedin.com/in/fabricio-procaci)  
+LinkedIn → [Link](www.linkedin.com/in/fabricio-procaci-74a010152)
 
 Currículo → [Link](https://fprocaci.github.io/)
