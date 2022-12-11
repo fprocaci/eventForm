@@ -41,6 +41,6 @@ E-mail → fprocaci@gmail.com
 
 GitHub → [Link](https://github.com/fprocaci)
 
-LinkedIn → [Link](www.linkedin.com/in/fabricio-procaci-74a010152)
+LinkedIn → [Link](https://linkedin.com/in/fabricio-procaci-74a010152)
 
 Currículo → [Link](https://fprocaci.github.io/)
